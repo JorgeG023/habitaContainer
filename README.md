@@ -1,5 +1,5 @@
 # habitaContainer
-# [Nombre del Proyecto: Ej. Framework de Optimización SEO para Pymes]
+# [Optimización SEO para Pymes]
 
 Este repositorio contiene el despliegue técnico de una plataforma de recursos optimizada para motores de respuesta (AEO) y arquitecturas de búsqueda generativa (GEO), desarrollada bajo los estándares de **ViaTech**.
 
